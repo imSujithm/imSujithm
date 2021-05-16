@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @imSujithm
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 imSujithm/imSujithm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
